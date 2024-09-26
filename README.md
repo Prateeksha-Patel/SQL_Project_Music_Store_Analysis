@@ -6,8 +6,8 @@ The Music Store Analysis project aims to uncover insights into sales patterns, c
 # Database and Tools
   ```
   
-  `#Postgre SQL`
-  `#PgAdmin4`
+  -Postgre SQL
+  *PgAdmin4
   ```
 # Schema-Music Store Database
 
