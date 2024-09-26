@@ -5,8 +5,9 @@ The Music Store Analysis project aims to uncover insights into sales patterns, c
 
 ## Database and Tools
 ```
- _ Postgre SQL
- _ PgAdmin4
+- George Washington
+* John Adams
++ Thomas Jefferson
 ```
 ## Schema-Music Store Database
 
